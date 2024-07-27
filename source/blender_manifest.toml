@@ -1,0 +1,24 @@
+schema_version = "1.0.0"
+
+id = "addon_name_id"
+version = "1.0.0"
+name = "Add-on Name"
+tagline = "A short description of the add-on."
+maintainer = "Maintainer Name <email>"
+type = "add-on"
+
+website = "https://example.com or GitHub repository"
+
+tags = [
+  "Node", "Pipeline", "User Interface"
+]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+copyright = [
+  "2024, Maintainer Name",
+]
